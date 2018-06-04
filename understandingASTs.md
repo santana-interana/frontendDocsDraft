@@ -4,7 +4,9 @@ In computer science, an abstract syntax tree (AST), or just syntax tree, is a tr
 
 E.g.:
 
-## Request
+## run_query
+
+### Request
 
 ```
 {
@@ -68,7 +70,7 @@ E.g.:
 }
 ```
 
-## Response
+### Response
 
 ```
 {
